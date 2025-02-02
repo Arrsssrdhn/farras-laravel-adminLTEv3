@@ -55,6 +55,22 @@
                   <p>Inactive Page</p>
                 </a>
               </li>
+
+              <li class="nav-item">
+                <a href="genre" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>tabel genre</p>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a href="cast" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>tabel cast</p>
+                </a>
+              </li>
+
+
             </ul>
           </li>
           <li class="nav-item">
